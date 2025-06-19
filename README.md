@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-informational?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Learning](https://img.shields.io/badge/Currently_Learning-QA%20Testing-blueviolet)]()
+[![Learning](https://img.shields.io/badge/Currently_Learning-QA_Software_Testing-blueviolet)]()
 [![Location](https://img.shields.io/badge/Location-Mexico-orange)]()
 
 ---
