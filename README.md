@@ -6,6 +6,7 @@
 
 <div align="center">
 **Mechatronics Engineer | QA & Support Specialist 
+</div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-eLagu8-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eLagu8)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eduardo--lagunas--25411828a-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-lagunas-25411828a)
