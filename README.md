@@ -2,9 +2,9 @@
 
 **Mechatronics Engineer | QA & Support Specialist | Home Automation Enthusiast**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-eLagu8-100000?style=flat&logo=github&logoColor=white)](https://github.com/eLagu8)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eduardo--lagunas--25411828a-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-lagunas-25411828a)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-informational?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-edr.lagunas@gmail.com-informational?style=flat&logo=gmail&logoColor=white)](mailto:edr.lagunas@gmail.com)
 [![Learning](https://img.shields.io/badge/Currently_Learning-QA_Software_Testing-blueviolet)]()
 [![Location](https://img.shields.io/badge/Location-Mexico-orange)]()
 
@@ -49,9 +49,9 @@ Mechatronics Engineer with experience in Quality Assurance (QA) in Software Test
 ---
 
 📫 **Contact**  
-📧 edr.lagunas@gmail.com
-🔗 [linkedin.com/in/eduardo-lagunas-25411828a](https://www.linkedin.com/in/eduardo-lagunas-25411828a) 
-
+📧 edr.lagunas@gmail.com  
+🔗 [linkedin.com/in/eduardo-lagunas-25411828a](https://www.linkedin.com/in/eduardo-lagunas-25411828a)  
+🐙 [github.com/eLagu8](https://github.com/eLagu8)
 
 ---
 
