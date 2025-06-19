@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-<img src="https://github.com/eLagu8/banner.png/blob/main/Imagen%20de%20WhatsApp%202025-06-18%20a%20las%2019.07.58_18dd7d3c.jpg?raw=true" alt="Banner" width="400"/>
+<div align="center">
+  <img src="https://github.com/eLagu8/banner.png/blob/main/Imagen%20de%20WhatsApp%202025-06-18%20a%20las%2019.07.58_18dd7d3c.jpg?raw=true" alt="Banner" width="600"/>
+</div>
+
 **Mechatronics Engineer | QA & Support Specialist | Home Automation Enthusiast**
 
 [![GitHub](https://img.shields.io/badge/GitHub-eLagu8-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eLagu8)
