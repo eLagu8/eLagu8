@@ -11,7 +11,7 @@
 ---
 
 🎯 **About Me**  
-Mechatronics Engineer with experience in Quality Assurance (QA), technical support, and smart home automation. Passionate about technology and building solutions that combine software, hardware, and operational efficiency. Known for strong analytical thinking, problem-solving skills, and collaboration in multidisciplinary environments.
+Mechatronics Engineer with experience in Quality Assurance (QA) in Software Testing. Passionate about technology and building solutions that combine software, hardware, and operational efficiency. Known for strong analytical thinking, problem-solving skills, and collaboration in multidisciplinary environments.
 
 ---
 
