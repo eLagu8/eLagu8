@@ -21,6 +21,7 @@ Mechatronics Engineer with experience in Quality Assurance (QA), technical suppo
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **QA & Tools:**  
@@ -28,7 +29,6 @@ Mechatronics Engineer with experience in Quality Assurance (QA), technical suppo
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-blue?style=flat)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -39,21 +39,19 @@ Mechatronics Engineer with experience in Quality Assurance (QA), technical suppo
 - 👨‍🏫 Taught C/C++ programming to engineering students.
 - 🏭 Collaborated with engineers and technicians to troubleshoot production issues in cross-functional projects.
 - 🧪 Performed manual and automated software testing in business environments.
-- 🏠 Designed personalized smart home automation solutions integrating multi-brand platforms.
 
 ---
 
 🌱 **Currently Learning**  
-- Software QA and automation (QA Bootcamp - TripleTen)  
-- Advanced integration between smart devices (IoT)  
+- Software QA and automation (QA Bootcamp - TripleTen)   
 - Git/GitHub workflows and best practices
 
 ---
 
 📫 **Contact**  
-📧 your-email@example.com  
-🔗 [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-🐙 [github.com/yourusername](https://github.com/yourusername)
+📧 edr.lagunas@gmail.com
+🔗 [linkedin.com/in/yourusername](www.linkedin.com/in/eduardo-lagunas-25411828a)  
+🐙 [github.com/yourusername](https://github.com/eLagu8)
 
 ---
 
