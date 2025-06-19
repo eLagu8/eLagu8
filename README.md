@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Descripción de la imagen](C:\Users\lagun\Downloads)
+![Banner](https://github.com/eLagu8/banner.png/blob/main/Imagen%20de%20WhatsApp%202025-06-18%20a%20las%2019.07.58_18dd7d3c.jpg?raw=true)
 
 **Mechatronics Engineer | QA & Support Specialist | Home Automation Enthusiast**
 
