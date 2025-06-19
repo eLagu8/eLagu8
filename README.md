@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**eLagu8/eLagu8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 **Mechatronics Engineer | QA & Support Specialist | Home Automation Enthusiast**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
