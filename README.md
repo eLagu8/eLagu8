@@ -4,9 +4,11 @@
   <img src="https://github.com/eLagu8/banner.png/blob/main/Imagen%20de%20WhatsApp%202025-06-18%20a%20las%2019.07.58_18dd7d3c.jpg?raw=true" alt="Banner" width="600"/>
 </div>
 
+
 <div align="center">
-**Mechatronics Engineer | QA & Support Specialist 
+Mechatronics Engineer | QA & Support Specialist 
 </div>
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-eLagu8-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eLagu8)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eduardo--lagunas--25411828a-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-lagunas-25411828a)
