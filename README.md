@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Descripción de la imagen](C:\Users\lagun\Downloads)
+
 **Mechatronics Engineer | QA & Support Specialist | Home Automation Enthusiast**
 
 [![GitHub](https://img.shields.io/badge/GitHub-eLagu8-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eLagu8)
