@@ -55,4 +55,4 @@ Mechatronics Engineer with experience in Quality Assurance (QA) in Software Test
 
 ---
 
-⚡ *"Technology is most powerful when it connects people."*
+⚡ *"Passion for tech, commitment to excellence."*
