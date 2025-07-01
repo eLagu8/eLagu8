@@ -6,7 +6,7 @@
 
 
 <div align="center">
-Mechatronics Engineer | QA & Support Specialist 
+Mechatronics Engineer | QA & Software Testing
 </div>
 
 
@@ -61,5 +61,12 @@ Mechatronics Engineer with experience in Quality Assurance (QA) in Software Test
 🐙 [github.com/eLagu8](https://github.com/eLagu8)
 
 ---
+
+## 🎓 Certifications
+
+- [QA Bootcamp - TripleTen](https://tripleten.com/certification)
+
+---
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eLagu8&show_icons=true&theme=radical)
 
 ⚡ *"Passion for tech, commitment to excellence."*
