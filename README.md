@@ -62,11 +62,4 @@ Mechatronics Engineer with experience in Quality Assurance (QA) in Software Test
 
 ---
 
-## 🎓 Certifications
-
-- [QA Bootcamp - TripleTen](https://tripleten.com/certification)
-
----
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eLagu8&show_icons=true&theme=radical)
-
 ⚡ *"Passion for tech, commitment to excellence."*
